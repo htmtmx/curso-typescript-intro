@@ -8,7 +8,7 @@
   customerAge = customerAge + 1; // == 26
 
   let productsInStock: number;
-//   productsInStock = 3;
+  productsInStock = 3;
   console.log("productsInStock", productsInStock);
   if (productsInStock > 10) {
     console.log("We have enough products");
